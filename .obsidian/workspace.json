@@ -39,14 +39,10 @@
             "id": "2b88e485feb27afe",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "helo.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "helo"
+              "title": "New tab"
             }
           }
         ],
