@@ -53,10 +53,14 @@
             "id": "78104a1bd2d3cdb4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "india.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "india"
             }
           }
         ],
@@ -209,6 +213,7 @@
   },
   "active": "78104a1bd2d3cdb4",
   "lastOpenFiles": [
+    "india.md",
     "hi.md",
     "hello.md",
     "test.md.txt",
