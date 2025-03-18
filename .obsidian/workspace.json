@@ -81,14 +81,10 @@
             "id": "f4be0a21bce112aa",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "gnomma.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "gnomma"
+              "title": "New tab"
             }
           }
         ],
@@ -242,8 +238,8 @@
   "active": "f4be0a21bce112aa",
   "lastOpenFiles": [
     "test.md",
-    "gnomma.md",
     "india.md",
+    "gnomma.md",
     "hi.md",
     "hello.md",
     "test.md.txt",
