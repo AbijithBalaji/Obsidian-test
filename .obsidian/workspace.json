@@ -81,10 +81,14 @@
             "id": "f4be0a21bce112aa",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "fgdf.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "fgdf"
             }
           }
         ],
@@ -237,6 +241,7 @@
   },
   "active": "f4be0a21bce112aa",
   "lastOpenFiles": [
+    "fgdf.md",
     "test.md",
     "india.md",
     "gnomma.md",
