@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5477e73cf6a325e1",
+        "id": "a8927dcc7e6dd645",
         "type": "tabs",
         "children": [
           {
-            "id": "443ee36f9499d305",
+            "id": "3cafdfaad7af088a",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -164,15 +164,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "443ee36f9499d305",
+  "active": "9123faa38f92fba9",
   "lastOpenFiles": [
+    "test 1.md",
+    "test 3.md",
+    "test 2.md",
     "test 7.md",
     "test 8.md",
     "test 5.md",
     "added from pi.md",
     "test 6.md",
-    "test 1.md",
-    "test 2.md",
     "test.md",
     "CIT.md",
     "CCP.md",
